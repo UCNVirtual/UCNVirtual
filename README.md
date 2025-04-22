@@ -26,12 +26,34 @@ Somos el equipo detrás del desarrollo e innovación en el entorno académico di
 | ![BigFive](https://github.com/user-attachments/assets/98f4484f-748b-4d09-bf48-e955ba150242) | **Cuestionario Psicoeducativo Big Five** - ¡Prepárate para una innovación emocionante! Estamos creando una aplicación web con Unity para llevar el famoso cuestionario Big-Five a los estudiantes que se inscriban en la Universidad Católica del Norte en 2024. Este cuestionario, renombrado por su capacidad para evaluar cinco dimensiones clave de la personalidad, será una herramienta invaluable para conocer a nuestros futuros estudiantes. ¡No te pierdas esta oportunidad de ser parte de algo grande! | [Ver proyecto](https://cuestionariopsicoeducativo.ucn.cl/bigfive/) |
 
 ## Contáctanos
-<a href="https://twitter.com/OSSInsight" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 
-<a href="https://github.com/pingcap/ossinsight/discussions" target="_blank">
-<img src=https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<a href="https://ucnvirtual.ucn.cl/" target="_blank">
+<img src="https://img.shields.io/badge/website-%2300acee.svg?color=4C9BFE&style=for-the-badge&logo=googlechrome&logoColor=white" alt="web" style="margin-bottom: 5px;" />
+</a>
 
-<a href="mailto:ossinsight@pingcap.com" target="_blank">
-<img src=https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+<a href="mailto:ucnvirtual@ucn.cl" target="_blank">
+<img src="https://img.shields.io/badge/gmail-%2300acee.svg?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/ucnvirtual" target="_blank">
+<img src="https://img.shields.io/badge/instagram-%2300acee.svg?color=E4405F&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/UCNVirtual" target="_blank">
+<img src="https://img.shields.io/badge/github-%2300acee.svg?color=181717&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/facebook-%2300acee.svg?color=1877F2&style=for-the-badge&logo=facebook&logoColor=white" alt="facebook" style="margin-bottom: 5px;" />
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" style="margin-bottom: 5px;" />
+</a>
+
+<a href="" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%2300acee.svg?color=0077B5&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+
 
