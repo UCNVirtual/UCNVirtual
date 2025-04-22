@@ -2,7 +2,8 @@
 
 Somos el equipo detrás del desarrollo e innovación en el entorno académico digital. Nos especializamos en la administración de la plataforma Campus Virtual, así como en la creación de contenido multimedia, software educativo interactivo y videojuegos serios orientados al aprendizaje.
 
-![WhatsApp Image 2025-04-04 at 4 18 08 PM](https://github.com/user-attachments/assets/a0353618-4ed5-4bfd-b35d-7f3e9b6f78ad)
+![g5zxo1tt](https://github.com/user-attachments/assets/5be8842b-dac7-4b01-a75b-727f44a70824)
+
 
 
 ## ¿Qué hacemos?
